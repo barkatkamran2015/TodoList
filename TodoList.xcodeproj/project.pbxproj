@@ -25,7 +25,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		23A430852D5C2AEC00E2AA63 /* TodoList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = TodoList.app; path = "/Users/barkatalikamran/Desktop/Exercise/SwiftApp/TodoList/build/Debug-iphoneos/TodoList.app"; sourceTree = "<absolute>"; };
+		23A4330C2D5EC9E600E2AA63 /* TodoList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TodoList.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -53,6 +53,7 @@
 			isa = PBXGroup;
 			children = (
 				23A430872D5C2AEC00E2AA63 /* TodoList */,
+				23A4330C2D5EC9E600E2AA63 /* TodoList.app */,
 			);
 			sourceTree = "<group>";
 		};
@@ -81,7 +82,7 @@
 				23A430992D5C2D8E00E2AA63 /* FirebaseFirestore */,
 			);
 			productName = TodoList;
-			productReference = 23A430852D5C2AEC00E2AA63 /* TodoList.app */;
+			productReference = 23A4330C2D5EC9E600E2AA63 /* TodoList.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -269,6 +270,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"TodoList/Preview Content\"";
+				DEVELOPMENT_TEAM = YHM4YBWMK5;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = "To Do List";
@@ -298,6 +300,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"TodoList/Preview Content\"";
+				DEVELOPMENT_TEAM = YHM4YBWMK5;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = "To Do List";

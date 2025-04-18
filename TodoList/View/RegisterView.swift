@@ -26,7 +26,7 @@ struct RegisterView: View {
                 }
                 .padding()
             }
-            .offset(y: -20) // Adjust form position if needed
+            .offset(y: 10) // Adjust form position if needed
             
             Spacer()
         }

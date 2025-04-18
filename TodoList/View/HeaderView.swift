@@ -32,7 +32,7 @@ struct HeaderView: View {
 
             .padding(.top, 80)
         }
-        .frame(width: UIScreen.main.bounds.width * 3, height: 350)
+        .frame(width: UIScreen.main.bounds.width * 3, height: 300)
         .offset(y: -150)
     }
 }
